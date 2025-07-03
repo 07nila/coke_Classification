@@ -22,9 +22,7 @@ This repository documents a real-time AI-powered system to detect, classify, and
 ## 🎯 Motivation
 Inspired by an internship at **Intech Systems** (10 June – 10 July 2024), an automation-focused company. Learned about **PLCs** and **AI vision technology**, and proposed this project for applications in food and beverage industries where accurate counting and classification is essential.
 
-## 👩‍💻 Contributors
-- Vennilah P (2022504521)  
-- Nandine D S (2022504522)
+
 
 ---
 
